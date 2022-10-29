@@ -1,10 +1,10 @@
 Rdp = {
-    {nordp = 1, botname = "Bot1", Status = "Nonaktif"},
-    {nordp = 1, botname = "Bot2", Status = "Nonaktif"},
-    {nordp = 2, botname = "Bot3", Status = "Nonaktif"},
-    {nordp = 2, botname = "Bot4", Status = "Nonaktif"},
-    {nordp = 3, botname = "Bot5", Status = "Nonaktif"},
-    {nordp = 3, botname = "Bot6", Status = "Nonaktif"}
+    {nordp = 1, botname = "mq6Z3aX6f1", Status = "Nonaktif"},
+    {nordp = 1, botname = "2OBHZnKOh1", Status = "Nonaktif"},
+    {nordp = 2, botname = "kB1Ecwt9r1", Status = "Nonaktif"},
+    {nordp = 2, botname = "dQ6dh3cAK1", Status = "Nonaktif"},
+    {nordp = 3, botname = "pF8Ot5OXB1", Status = "Nonaktif"},
+    {nordp = 3, botname = "ypWK0FoG", Status = "Nonaktif"}
 }
 
 ShowIP = true
